@@ -1,0 +1,12 @@
+{
+  "name": "guess-number1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
